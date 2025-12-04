@@ -1,0 +1,25 @@
+# Credentials and secrets
+evaluation-dataset-67b8dd770c30.json
+fb_cookies.json
+*.json
+!package.json
+!package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Images (optional - remove if you want to track them)
+images/
+*.jpg
+*.png
+*.jpeg
+
+# OS
+.DS_Store
